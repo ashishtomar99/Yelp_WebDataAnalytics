@@ -1,5 +1,5 @@
 # Yelp
-Scraped data for a Yelp restaurant
+Scraped data for a Yelp restaurant.
 
 ## Website Link: 
 https://www.yelp.com/biz/j-wata-temaki-bar-san-diego-4?osq=restauran
